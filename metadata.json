@@ -1,0 +1,5 @@
+{
+  "name": "Cisco-Huawei Config Converter",
+  "description": "A web application that uses AI to convert Cisco network configurations (like VRF, Routing, Physical Ports, and VLANs) into their Huawei VRP equivalents seamlessly.",
+  "requestFramePermissions": []
+}
